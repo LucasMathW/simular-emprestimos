@@ -5,6 +5,9 @@
   "repository": "git@github.com:LucasMathW/simular-emprestimos.git",
   "author": "matheus <lucasag0408@outlook.com>",
   "license": "MIT",
+  "scripts": {
+    "dev": "next dev"
+  },
   "dependencies": {
     "next": "^10.2.3",
     "react": "^17.0.2",
